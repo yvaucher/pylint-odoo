@@ -1,3 +1,4 @@
-pylint-plugin-utils==0.7
+pylint-plugin-utils==0.6 ;python_version < 3.6.2
+pylint-plugin-utils==0.7 ;python_version >= 3.6.2
 pylint==2.15.*
 validators==0.20.0
